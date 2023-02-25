@@ -1,4 +1,4 @@
-# Arcaptcha react Example
+# Arcaptcha React Demo
 first run:`npm install`
 
 ## Available Scripts
